@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="activity_horizontal_margin">170.67dp</dimen>
+	<dimen name="activity_vertical_margin">170.67dp</dimen>
+	<dimen name="dimension_10">106.67dp</dimen>
+	<dimen name="dimension_330">3520.00dp</dimen>
+	<dimen name="dimension_40">426.67dp</dimen>
+	<dimen name="font_size_title_login">213.33dp</dimen>
+	<dimen name="height_btn_email_edit_pass">266.67dp</dimen>
+	<dimen name="height_login_header">1866.67dp</dimen>
+	<dimen name="margin_bottom_login">106.67dp</dimen>
+	<dimen name="margin_btn_email_edit_pass_bottom">106.67dp</dimen>
+	<dimen name="margin_left_login">213.33dp</dimen>
+	<dimen name="margin_logo_funtap">213.33dp</dimen>
+	<dimen name="margin_right_login">213.33dp</dimen>
+	<dimen name="margin_top_form_input_login">106.67dp</dimen>
+	<dimen name="margin_top_login">853.33dp</dimen>
+	<dimen name="padding_form_login">256.00dp</dimen>
+	<dimen name="padding_form_login_bottom">53.33dp</dimen>
+	<dimen name="padding_form_login_top">53.33dp</dimen>
+	<dimen name="title_input_login">128.00dp</dimen>
+	<dimen name="top_title_login">53.33dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_title_login">#000000</color>
+    <color name="color_title_edittext">#64000000</color>
+    <color name="color_login_button">#ffffff</color>
+    <color name="color_tint_edittext">#F04406</color>
+</resources>
